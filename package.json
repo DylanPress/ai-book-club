@@ -1,0 +1,8 @@
+{
+    "name": "ai-book-club",
+    "version": "1.0.0",
+    "description": "AI Book Club App",
+    "dependencies": {
+      "node-fetch": "^2.6.1"
+    }
+  }
